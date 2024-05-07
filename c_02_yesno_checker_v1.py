@@ -12,8 +12,7 @@ def yes_no(question):
             if response == item[0] or response == item:
                 return item
 
-        print("Please enter a valid response (yes / no)")
-        print()
+        print("Please enter a valid response (yes / no)\n")
 
 
 # Main routine goes here...
